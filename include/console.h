@@ -1,6 +1,3 @@
-//作业名：myshell模拟终端
-//姓名：张嘉季 学号：3200105797
-
 #ifndef _CONSOLE_H__
 #define _CONSOLE_H__
 
